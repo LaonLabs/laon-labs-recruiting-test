@@ -1,5 +1,5 @@
 # ⚛️ Laon Labs - Teste de recrutamento
-Obrigado por aceitar nosso desafio! A Laon Labs é uma software house localizada no congelante sul do Brasil. Nosso objetivo é alavancar empresas de tecnologia e startups através de aplicações fantáticos, não importa o tamanho! E você, como developer, tem papel fundamental nessa missão.
+Obrigado por aceitar nosso desafio! A Laon Labs é uma software house localizada no congelante sul do Brasil. Nosso objetivo é alavancar empresas de tecnologia e startups através de aplicações fantásticas, não importa o tamanho! E você, como developer, tem papel fundamental nessa missão.
 
 ## Instruções para o teste
 - Esse teste tem como objetivo avaliar os mais diversos níveis de desenvolvedores, além de diferenciar fullstack, backend e frontend developers. Se você travou em alguma das atividades ou não tem conhecimento necessário para avançar, não se preocupe, ainda iremos avaliar seu código de forma objetiva e com carinho, terminar o teste não é um requisito obrigatório;
