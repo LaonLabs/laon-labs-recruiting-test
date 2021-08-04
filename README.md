@@ -22,7 +22,7 @@ O objetivo é criar um catálogo de filmes (e possivelmente séries). O usuário
 
 
 # 🎨 Figma de referência
-Para facilitar, criamos um Figma que servirá como referência para a criação da UI. Fique atento a margens, espaçamentos, tamanhos, fontes, cores e proporções, prezamos sempre por um resultado final fiel ao Figma. [Clique aqui para acessar o Figma.](https://google.com)
+Para facilitar, criamos um Figma que servirá como referência para a criação da UI. Fique atento a margens, espaçamentos, tamanhos, fontes, cores e proporções, prezamos sempre por um resultado final fiel ao Figma. [Clique aqui para acessar o Figma.](https://www.figma.com/file/UNbd6QwutVcqiWoVEtBlCi/Recrutamento?node-id=2%3A9)
 
 
 # 💾 Banco de dados
