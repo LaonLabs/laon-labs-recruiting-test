@@ -30,7 +30,7 @@ Utilize `MySQL 8`. Inicie sempre o desenvolvimento da plataforma pela modelagem 
 
 
 # 🤖 Backend
-Crie uma API para sua plataforma utilizando `Laravel 8`. Para autenticação, recomendamos `Sanctum`. Prezamos por um código com separação lógica de blocos, bons padrões de nomenclatura e uma implementação que considera boas práticas para APIs Restful. Se possível, crie uma collection no `Postman` para testarmos e validarmos os endpoints da sua API. Não esqueça também de manter migrations e seeders atualizados.
+Crie uma API para sua plataforma utilizando `Laravel 12`. Para autenticação, recomendamos `Sanctum`. Prezamos por um código com separação lógica de blocos, bons padrões de nomenclatura e uma implementação que considera boas práticas para APIs Restful. Se possível, crie uma collection no `Postman` para testarmos e validarmos os endpoints da sua API. Não esqueça também de manter migrations e seeders atualizados.
 
 
 # 💻 Frontend
